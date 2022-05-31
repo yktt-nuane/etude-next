@@ -1,1 +1,1 @@
-# etude-next
+# my-app
