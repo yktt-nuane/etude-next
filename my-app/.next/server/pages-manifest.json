@@ -2,11 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-<<<<<<< HEAD
-  "/": "pages/index.js",
-  "/posts/[id]": "pages/posts/[id].js"
-=======
-  "/posts/first-post": "pages/posts/first-post.js",
   "/": "pages/index.js"
->>>>>>> fa51d8d2506985bdec34bc6e9f663189dace4ee1
 }
